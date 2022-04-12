@@ -1,0 +1,30 @@
+﻿Year,Trade Type,Consignment (Region),Consignment (Member),Statistics,Value,Unit
+"2021","Total Exports","CIS & EASTERN EUROPE","ALBANIA","Value (Year-to-date) (HK$ Mn)","54","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","ARMENIA","Value (Year-to-date) (HK$ Mn)","770","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","AZERBAIJAN","Value (Year-to-date) (HK$ Mn)","470","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","BELARUS","Value (Year-to-date) (HK$ Mn)","488","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","BULGARIA","Value (Year-to-date) (HK$ Mn)","1,402","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","CIS & EASTERN EUROPE, NESOI","Value (Year-to-date) (HK$ Mn)","0@Mn","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","CZECHIA","Value (Year-to-date) (HK$ Mn)","11,144","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","GEORGIA","Value (Year-to-date) (HK$ Mn)","252","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","HUNGARY","Value (Year-to-date) (HK$ Mn)","14,295","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","KAZAKHSTAN","Value (Year-to-date) (HK$ Mn)","2,211","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","KYRGYZSTAN","Value (Year-to-date) (HK$ Mn)","133","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","MOLDOVA, REPUBLIC OF","Value (Year-to-date) (HK$ Mn)","129","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","POLAND","Value (Year-to-date) (HK$ Mn)","17,663","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","ROMANIA","Value (Year-to-date) (HK$ Mn)","4,109","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","RUSSIA","Value (Year-to-date) (HK$ Mn)","38,659","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","SLOVAKIA","Value (Year-to-date) (HK$ Mn)","1,411","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","TAJIKISTAN","Value (Year-to-date) (HK$ Mn)","3","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","TURKMENISTAN","Value (Year-to-date) (HK$ Mn)","5","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","UKRAINE","Value (Year-to-date) (HK$ Mn)","2,312","HK$ Mn"
+"2021","Total Exports","CIS & EASTERN EUROPE","UZBEKISTAN","Value (Year-to-date) (HK$ Mn)","328","HK$ Mn"
+Notes:		Adjustments relating to earlier months of a particular year are incorporated in the cumulative totals of that year only. It follows that the sums of the monthly figures may differ from the cumulative totals.
+		Hong Kong's external merchandise trade statistics are compiled based on information contained in import/export declarations. The Hong Kong Special Administrative Region is a separate customs territory, as stated in "The Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China". Import/export declaration is also required of Hong Kong's merchandise trade with the mainland of China, and statistics relating to this are included in Hong Kong's external merchandise trade statistics.
+		Figures may not add up to total due to rounding.
+		Territory/Region with nil records is omitted.
+	@Mn	Value less than HK$ 0.5 million
+Source:		Trade Analysis Section (2), Census and Statistics Department,
+		The Government of the Hong Kong Special Administrative Region
+		Enquiry telephone no. : 2582 4915
+		Enquiry e-mail : trade@censtatd.gov.hk

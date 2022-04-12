@@ -1,0 +1,19 @@
+﻿Year,Trade Type,Consignment,Statistics,Value,Unit
+"2017","Total Trade","RUSSIA","Value (Year-to-date) (HK$ Mn)","29,742","HK$ Mn"
+"2017","Total Trade","UKRAINE","Value (Year-to-date) (HK$ Mn)","2,089","HK$ Mn"
+"2018","Total Trade","RUSSIA","Value (Year-to-date) (HK$ Mn)","35,837","HK$ Mn"
+"2018","Total Trade","UKRAINE","Value (Year-to-date) (HK$ Mn)","2,865","HK$ Mn"
+"2019","Total Trade","RUSSIA","Value (Year-to-date) (HK$ Mn)","34,997","HK$ Mn"
+"2019","Total Trade","UKRAINE","Value (Year-to-date) (HK$ Mn)","2,343","HK$ Mn"
+"2020","Total Trade","RUSSIA","Value (Year-to-date) (HK$ Mn)","37,552","HK$ Mn"
+"2020","Total Trade","UKRAINE","Value (Year-to-date) (HK$ Mn)","2,655","HK$ Mn"
+"2021","Total Trade","RUSSIA","Value (Year-to-date) (HK$ Mn)","48,889","HK$ Mn"
+"2021","Total Trade","UKRAINE","Value (Year-to-date) (HK$ Mn)","3,185","HK$ Mn"
+Notes:		Adjustments relating to earlier months of a particular year are incorporated in the cumulative totals of that year only. It follows that the sums of the monthly figures may differ from the cumulative totals.
+		Hong Kong's external merchandise trade statistics are compiled based on information contained in import/export declarations. The Hong Kong Special Administrative Region is a separate customs territory, as stated in "The Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China". Import/export declaration is also required of Hong Kong's merchandise trade with the mainland of China, and statistics relating to this are included in Hong Kong's external merchandise trade statistics.
+		Figures may not add up to total due to rounding.
+		Countries of consignment with nil records is omitted.
+Source:		Trade Analysis Section (2), Census and Statistics Department,
+		The Government of the Hong Kong Special Administrative Region
+		Enquiry telephone no. : 2582 4915
+		Enquiry e-mail : trade@censtatd.gov.hk
